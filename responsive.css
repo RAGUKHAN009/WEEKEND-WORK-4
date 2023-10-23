@@ -900,3 +900,24 @@
         width: 16%;
     }
 }
+
+
+/* 
+        SMALL MOBILE SCREEN
+*/
+
+
+
+@media screen and (max-width:320px) {
+    .left-border {
+        width: 100%;
+        margin-left: 0%;
+    }   
+
+    .right- {
+        width: 16%;
+    }
+    .left- { 
+        width: 16%;
+    }
+}
